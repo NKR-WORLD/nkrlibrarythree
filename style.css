@@ -110,6 +110,8 @@
         .nav-item {
           text-align: center;
           align-items: center;
+           display:flex;
+           flex-direction:row;
         }
       }
 
